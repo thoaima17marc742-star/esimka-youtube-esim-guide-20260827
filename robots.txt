@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thoaima17marc742-star.github.io/esimka-youtube-esim-guide-20260827/sitemap.xml
